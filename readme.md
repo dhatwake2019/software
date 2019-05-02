@@ -18,7 +18,4 @@
 ## Strongly recommended, but not necessarily required
 * A plain text editor (either [Sublime Text](https://www.sublimetext.com/) or [Atom](https://atom.io/) are recommended)
 * Spreadsheet software (Excel, [Libre Office](https://www.libreoffice.org/), anything that will open a spreadsheet)
-
-
-**optional**
-Python 3 (*Windows*: https://www.python.org/downloads/windows/; *Mac*: Open Terminal and type `brew install python3`
+* Python 3 (*Windows*: https://www.python.org/downloads/windows/; *Mac*: Open Terminal and type `brew install python3`
