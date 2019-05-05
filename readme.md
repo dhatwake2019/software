@@ -1,6 +1,7 @@
 # List of software to install before the DH@Wake Institute
 ## Required Software
 ### Mac & Windows
+* Sign up for a free account on [Flourish](https://flourish.studio/).
 * [OpenRefine](http://openrefine.org/download.html)  - a tool for helping to organize and edit tabular data at scale
 * [Chrome browser](https://www.google.com/chrome/b/) - required to use the WebScraper Chrome Plugin
 * [WebScraper Chrome Plugin](webscraper.io) - allows you to scrape data off of websites
