@@ -4,7 +4,7 @@
 * Sign up for a free account on [Flourish](https://flourish.studio/).
 * [OpenRefine](http://openrefine.org/download.html)  - a tool for helping to organize and edit tabular data at scale
 * [Chrome browser](https://www.google.com/chrome/b/) - required to use the WebScraper Chrome Plugin
-* [WebScraper Chrome Plugin](webscraper.io) - allows you to scrape data off of websites
+* [WebScraper Chrome Plugin](https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn/related?hl=en) - allows you to scrape data off of websites
 * [Topic Modeling Tool](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html) GUI that uses Mallet to create topic models 
 * [Postman](http://getpostman.com) - helps you develop an API call
 
