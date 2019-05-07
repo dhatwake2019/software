@@ -10,7 +10,7 @@
 
 ### Mac Only
 * [Homebrew](https://brew.sh/) (open ’Terminal’ program and paste in the command on the website. This may also prompt you to install XCode - please do so (it may take awhile)) - this is a package manager that makes installing command-line tools easier
-* Tesseract (once Homebrew is installed, in Terminal, type `brew install tesseract`) - this performs OCR on images of text
+* Tesseract (once Homebrew is installed (which may be 5-10 mins, not includign XCode update), in Terminal, type `brew install tesseract`) - this performs OCR on images of text
 
 ### Windows Only
 * [Cygwin](https://www.cygwin.com/install.html) - command-line software with several tools built in
